@@ -4,10 +4,10 @@
       { "id": 2, "detalle_categoria": "Materiales de Construcción" }
     ],
     "productos": [
-      { "id": 1, "nombre_producto": "Martillo", "descripcion_producto": "Martillo de acero de 16 oz", "precio_producto": 12.50, "stock_producto": 50, "categoria_id": 1 },
-      { "id": 2, "nombre_producto": "Destornillador", "descripcion_producto": "Destornillador Phillips de 6 pulgadas", "precio_producto": 7.00, "stock_producto": 100, "categoria_id": 1 },
-      { "id": 3, "nombre_producto": "Cemento", "descripcion_producto": "Bolsa de cemento de 50 kg", "precio_producto": 10.00, "stock_producto": 200, "categoria_id": 2 },
-      { "id": 4, "nombre_producto": "Ladrillo", "descripcion_producto": "Ladrillo rojo", "precio_producto": 0.50, "stock_producto": 1000, "categoria_id": 2 }
+      { "id": 1, "nombre_producto": "Martillo", "descripcion_producto": "Martillo de acero de 16 oz", "precio_producto": 12000, "stock_producto": 50, "categoria_id": 1 },
+      { "id": 2, "nombre_producto": "Destornillador", "descripcion_producto": "Destornillador Phillips de 6 pulgadas", "precio_producto": 3000, "stock_producto": 100, "categoria_id": 1 },
+      { "id": 3, "nombre_producto": "Cemento", "descripcion_producto": "Bolsa de cemento de 50 kg", "precio_producto": 20000, "stock_producto": 200, "categoria_id": 2 },
+      { "id": 4, "nombre_producto": "Ladrillo", "descripcion_producto": "Ladrillo rojo", "precio_producto": 500, "stock_producto": 1000, "categoria_id": 2 }
     ]
   }
   
